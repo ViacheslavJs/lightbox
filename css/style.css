@@ -124,6 +124,10 @@ li {
   object-fit: cover;
   cursor: pointer;          
 }
+
+.lightbox-prev__lightbox-prev-title {
+  color: gray;
+}
    
 /* TODO - lightbox */ 	      
 #modal-layer {
