@@ -292,7 +292,6 @@ function lightboxCentering() {
       slides.style.top = remainder + "px";                        
     }   
     
-    
     if (widthLayer < heightLayer && portraitImg[i].height > portraitImg[i].width) { 
                    
       portraitImg[i].style.width = 'calc(100%)';  
