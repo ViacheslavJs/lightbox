@@ -89,14 +89,13 @@ li {
 /***** TODO - module lightbox-prev *********************/
 
 .lightbox-prev {
-  max-width: calc(100%);       
   display: flex;               
   flex-direction: column;
   justify-content: center;  
   align-items: center; 
    
   background: #f6f6f8;
-  padding: 25px;     
+  padding: 10px 0;     
 }  
 
 .lightbox-prev__link {                    
@@ -126,6 +125,7 @@ li {
 }
 
 .lightbox-prev__lightbox-prev-title {
+  margin: 10px;
   color: gray;
 }
    
